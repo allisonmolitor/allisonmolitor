@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🌸, I'm Allison</h1>
 <h3 align="center">A passionate Data Scientist from Elgin, IL</h3>
 
-- 🔭 I’m currently working on **an internship at H.P. and applying to UPenn MSE-DS Online Program!**
+- 🔭 I’m currently working on **a data science internship at a startup in San Francisco and pursuing an MSE in Data Science at UPenn**
 
 - 🌱 I’m currently learning **new machine learning methodologies**
 
