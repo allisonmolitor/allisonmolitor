@@ -1,13 +1,7 @@
 <h1 align="center">Hi 🌸, I'm Allison</h1>
 <h3 align="center">A passionate Data Scientist from Elgin, IL</h3>
 
-- 🔭 I’m currently working on **a data science internship at a startup in San Francisco and pursuing an MSE in Data Science at UPenn**
-
-- 🌱 I’m currently learning **new machine learning methodologies**
-
 - 👨‍💻 All of my projects are available at [https://allisonmolitor.github.io/](https://allisonmolitor.github.io/)
-
-- 💬 Ask me about **my vintage lamp collection!**
 
 - 📫 How to reach me **allisonmmolitor@gmail.com**
 
