@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌸, I'm Allison</h1>
-<h3 align="center">A passionate Data Scientist from Elgin, IL</h3>
+<h3 align="center">From South Elgin, IL</h3>
 
 - 👨‍💻 All of my projects are available at [https://allisonmolitor.github.io/](https://allisonmolitor.github.io/)
 
