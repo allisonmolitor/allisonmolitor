@@ -1,6 +1,10 @@
 <h1 align="center">Hi 🌸, I'm Allison</h1>
 <h3 align="center">From South Elgin, IL</h3>
 
+- 🎓 Currently pursuing my **MSE in Data Science** at the **University of Pennsylvania**
+
+- 🔬 Working as a **Data Science Research Assistant** at **Northwestern University's Kellogg School of Management**, developing AI pipelines for research data extraction and analysis
+
 - 👨‍💻 All of my projects are available at [https://allisonmolitor.github.io/](https://allisonmolitor.github.io/)
 
 - 📫 How to reach me **allisonmmolitor@gmail.com**
