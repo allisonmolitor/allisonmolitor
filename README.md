@@ -3,9 +3,9 @@
 
 - 🎓 Currently pursuing my **MSE in Data Science** at the **University of Pennsylvania**
 
-- 🔬 Working as a **Data Science Research Assistant** at **Northwestern University's Kellogg School of Management**, developing AI pipelines for research data extraction and analysis
+- 🔬 Conducting research with **Northwestern University's Kellogg School of Management**
 
-- 👨‍💻 All of my projects are available at [https://allisonmolitor.github.io/](https://allisonmolitor.github.io/)
+- 💻 Most of my development activity takes place in private repositories, so my public GitHub activity doesn't reflect all of my work!
 
 - 📫 How to reach me **allisonmmolitor@gmail.com**
 
